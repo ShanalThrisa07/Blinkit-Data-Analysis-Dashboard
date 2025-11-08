@@ -1,13 +1,13 @@
 # Blinkit-Data-Analysis-Dashboard
-##Project Overview
+## Project Overview
 
 This project analyzes BlinkIT grocery sales data to identify trends, performance metrics, and business insights using Microsoft Excel.
 The dashboard provides a visual summary of sales performance across outlets, item types, and visibility metrics, enabling data-driven decision-making.
 
-##Dataset
-<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">
+## Dataset
+<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">Dataset</a>
 
-##Objectives
+## Objectives
 
 1.To analyze grocery sales performance across different product categories.
 2.To identify key factors influencing sales revenue.
@@ -23,8 +23,8 @@ The dashboard provides a visual summary of sales performance across outlets, ite
 5.Created calculated fields – Computed profit margins, total sales, and visibility indices.
 6.Formatted data types – Corrected numeric, date, and categorical data formats.
 
-##Dashboard
-<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/Blinkit%20Dashboard.png">
+## Dashboard
+<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/Blinkit%20Dashboard.png">Data Visalization</a>
 
 ##Project insights
 
