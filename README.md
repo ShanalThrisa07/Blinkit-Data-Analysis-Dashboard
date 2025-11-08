@@ -5,7 +5,7 @@ This project analyzes BlinkIT grocery sales data to identify trends, performance
 The dashboard provides a visual summary of sales performance across outlets, item types, and visibility metrics, enabling data-driven decision-making.
 
 ##Dataset
--<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">
+<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">
 
 ##Objectives
 
@@ -14,7 +14,7 @@ The dashboard provides a visual summary of sales performance across outlets, ite
 3.To visualize patterns in outlet size, location type, and item visibility.
 4.To present actionable insights for business improvement.
 
-Data Cleaning & Preparation
+## Cleaning & Preparation
 
 1.The dataset was prepared and refined using the following steps:
 2.Handled missing values – Replaced blanks and null entries using ogical imputations.
@@ -24,9 +24,9 @@ Data Cleaning & Preparation
 6.Formatted data types – Corrected numeric, date, and categorical data formats.
 
 ##Dashboard
+<a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/Blinkit%20Dashboard.png">
 
-
-Project insights
+##Project insights
 
 1.Tier 1 outlets record the highest total and average sales, driven by larger customer bases and better store infrastructure.
 2.Item visibility strongly correlates with sales — products placed in more prominent locations achieve significantly higher revenue.
