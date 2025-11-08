@@ -10,6 +10,7 @@ The dashboard provides a visual summary of sales performance across outlets, ite
 ## Objectives
 
 1.To analyze grocery sales performance across different product categories.
+
 2.To identify key factors influencing sales revenue.
 3.To visualize patterns in outlet size, location type, and item visibility.
 4.To present actionable insights for business improvement.
@@ -26,7 +27,7 @@ The dashboard provides a visual summary of sales performance across outlets, ite
 ## Dashboard
 <a href="https://github.com/ShanalThrisa07/Blinkit-Data-Analysis-Dashboard/blob/main/Blinkit%20Dashboard.png">Data Visalization</a>
 
-##Project insights
+## Project insights
 
 1.Tier 1 outlets record the highest total and average sales, driven by larger customer bases and better store infrastructure.
 2.Item visibility strongly correlates with sales — products placed in more prominent locations achieve significantly higher revenue.
